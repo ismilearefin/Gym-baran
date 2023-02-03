@@ -1,3 +1,4 @@
+import BestFullBody from "components/BestFullBody/BestFullBody";
 import HeroSection from "components/HeroSection/HeroSection";
 import StaticBar from "components/StaticBar/StaticBar";
 import TextSection from "components/TextSection/TextSection";
@@ -9,6 +10,7 @@ export default function Home() {
       <HeroSection></HeroSection>
       <TextSection></TextSection>
       <StaticBar></StaticBar>
+      <BestFullBody></BestFullBody>
     </main>
   )
 }
