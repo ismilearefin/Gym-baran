@@ -2,6 +2,7 @@ import BestFullBody from "components/BestFullBody/BestFullBody";
 import DailyWorkout from "components/DailyWorkout/DailyWorkout";
 import HeroSection from "components/HeroSection/HeroSection";
 import HowItWorks from "components/HowItWorks/HowItWorks";
+import Programs from "components/Programs/Programs";
 import StaticBar from "components/StaticBar/StaticBar";
 import TextSection from "components/TextSection/TextSection";
 
@@ -15,6 +16,7 @@ export default function Home() {
       <BestFullBody></BestFullBody>
       <DailyWorkout></DailyWorkout>
       <HowItWorks></HowItWorks>
+      <Programs></Programs>
     </main>
   )
 }
