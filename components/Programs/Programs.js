@@ -3,7 +3,7 @@ import React from 'react';
 
 const Programs = () => {
     return (
-        <div className='my-[120px]'>
+        <div className='my-[120px] grid justify-center'>
             <h1 className='font-[Grotesque] text-[46px] text-center mb-[50px]'>Programs that can<br/> be taken</h1>
         
             <div className='grid grid-cols-3 gap-20'>

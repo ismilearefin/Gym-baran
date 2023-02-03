@@ -4,6 +4,7 @@ import HeroSection from "components/HeroSection/HeroSection";
 import HowItWorks from "components/HowItWorks/HowItWorks";
 import Programs from "components/Programs/Programs";
 import StaticBar from "components/StaticBar/StaticBar";
+import Testimonials from "components/Testimonials/Testimonials";
 import TextSection from "components/TextSection/TextSection";
 
 
@@ -17,6 +18,7 @@ export default function Home() {
       <DailyWorkout></DailyWorkout>
       <HowItWorks></HowItWorks>
       <Programs></Programs>
+      <Testimonials></Testimonials>
     </main>
   )
 }
