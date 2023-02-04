@@ -20,8 +20,8 @@ export default function Home() {
       <DailyWorkout></DailyWorkout>
       <HowItWorks></HowItWorks>
       <Programs></Programs>
-      {/* <Testimonials></Testimonials>
-      <Footer></Footer> */}
+      <Testimonials></Testimonials>
+      <Footer></Footer>
     </main>
   )
 }
