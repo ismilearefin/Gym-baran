@@ -16,9 +16,9 @@ export default function Home() {
       <HeroSection></HeroSection>
       <TextSection></TextSection>
       <StaticBar></StaticBar>
-      {/* <BestFullBody></BestFullBody>
+      <BestFullBody></BestFullBody>
       <DailyWorkout></DailyWorkout>
-      <HowItWorks></HowItWorks>
+      {/* <HowItWorks></HowItWorks>
       <Programs></Programs>
       <Testimonials></Testimonials>
       <Footer></Footer> */}

@@ -4,7 +4,7 @@ import Image from "next/image";
 const HeroSection = () => {
     return (
             <div className=" lg:bg-left bg-no-repeat bg-auto ">
-            <div className="bg-[url('/bgone.png')] ">
+            <div className="bg-[url('/bgone.png')] relative">
             <Navbar></Navbar>
             <div className="flex flex-col md:flex-row lg:gap-8 md:mt-[85px] md:h-[580px] px-6">
                 <div className="lg:w-1/2 lg:ml-20 mt-12">
