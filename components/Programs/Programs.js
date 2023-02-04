@@ -3,10 +3,11 @@ import React from 'react';
 
 const Programs = () => {
     return (
-        <div className='my-[120px] grid justify-center'>
-            <h1 className='font-[Grotesque] text-[46px] text-center mb-[50px]'>Programs that can<br/> be taken</h1>
-        
-            <div className='grid grid-cols-3 gap-20'>
+        <div className='my-[120px] grid justify-center px-6'>
+            <div className='flex justify-center items-center'>
+            <h1 className='font-[Grotesque] text-[28px] lg:text-[46px] leading-10 lg:leading-[72px] text-left mb-[38px] lg:mb-[50px] font-bold lg:font-normal lg:w-[558px]'>Programs that can be taken</h1>
+            </div>
+            <div className='grid lg:grid-cols-3 lg:gap-20 gap-6'>
                 <div className='flex items-center'>
                     <div className='mr-[23px] grid justify-center items-center w-20 h-20 p-4 bg-gradient-to-r from-[#5478EF] to-[#D6DFFF] rounded-full drop-shadow-md'>
                         <Image src='/man-doing-yoga-.png' width={50} height={50}></Image>

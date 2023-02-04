@@ -18,9 +18,9 @@ export default function Home() {
       <StaticBar></StaticBar>
       <BestFullBody></BestFullBody>
       <DailyWorkout></DailyWorkout>
-      {/* <HowItWorks></HowItWorks>
+      <HowItWorks></HowItWorks>
       <Programs></Programs>
-      <Testimonials></Testimonials>
+      {/* <Testimonials></Testimonials>
       <Footer></Footer> */}
     </main>
   )
