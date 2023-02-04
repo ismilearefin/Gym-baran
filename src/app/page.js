@@ -12,16 +12,16 @@ import TextSection from "components/TextSection/TextSection";
 
 export default function Home() {
   return (
-    <main className=" w-[1440px] mx-auto">
+    <main className=" lg:w-[1440px] mx-auto">
       <HeroSection></HeroSection>
-      <TextSection></TextSection>
+      {/* <TextSection></TextSection>
       <StaticBar></StaticBar>
       <BestFullBody></BestFullBody>
       <DailyWorkout></DailyWorkout>
       <HowItWorks></HowItWorks>
       <Programs></Programs>
       <Testimonials></Testimonials>
-      <Footer></Footer>
+      <Footer></Footer> */}
     </main>
   )
 }
