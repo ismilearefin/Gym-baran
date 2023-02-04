@@ -14,9 +14,9 @@ export default function Home() {
   return (
     <main className=" lg:w-[1440px] mx-auto">
       <HeroSection></HeroSection>
-      {/* <TextSection></TextSection>
+      <TextSection></TextSection>
       <StaticBar></StaticBar>
-      <BestFullBody></BestFullBody>
+      {/* <BestFullBody></BestFullBody>
       <DailyWorkout></DailyWorkout>
       <HowItWorks></HowItWorks>
       <Programs></Programs>

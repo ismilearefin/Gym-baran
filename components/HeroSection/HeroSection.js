@@ -24,7 +24,7 @@ const HeroSection = () => {
                     <Image src='/brandslogo.png' width={462} height={64}
                     ></Image>
                 </div>
-                <div className="flex lg:justify-center lg:w-1/2 mt-[60px] lg:mt-0 ">
+                <div className="flex justify-center lg:w-1/2 mt-[60px] lg:mt-0 ">
                     <Image src='/GroupHero.png'
                      width={584}
                      height={580}
