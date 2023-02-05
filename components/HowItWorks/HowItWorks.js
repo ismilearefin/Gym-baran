@@ -33,13 +33,13 @@ const HowItWorks = () => {
           How it works?
         </h1>
         <div className="font-normal lg:w-[566px] text-[18px]">
-          <div className="px-9 py-8 rounded-[10px] mb-5 lg:mb-4 bg-white opacity-50 drop-shadow-2xl lg:drop-shadow-md hover:drop-shadow-2xl hover:opacity-100">
+          <div className="px-9 py-8 rounded-[10px] mb-5 lg:mb-4 bg-white opacity-50 drop-shadow-2xl lg:drop-shadow-md hover:drop-shadow-2xl hover:opacity-100 transform transition duration-700">
             <p>The body becomes sick because of rarely exercise</p>
           </div>
-          <div className="px-9 py-8 rounded-[10px] mb-5 lg:mb-4 bg-white opacity-50 drop-shadow-2xl lg:drop-shadow-md hover:drop-shadow-2xl hover:opacity-100">
+          <div className="px-9 py-8 rounded-[10px] mb-5 lg:mb-4 bg-white opacity-50 drop-shadow-2xl lg:drop-shadow-md hover:drop-shadow-2xl hover:opacity-100 transform transition duration-700">
             <p>Don't give up in order to get a healthy and ideal body</p>
           </div>
-          <div className="px-9 py-8 rounded-[10px]  lg:mb-4 bg-white opacity-50 drop-shadow-2xl lg:drop-shadow-md hover:drop-shadow-2xl hover:opacity-100">
+          <div className="px-9 py-8 rounded-[10px]  lg:mb-4 bg-white opacity-50 drop-shadow-2xl lg:drop-shadow-md hover:drop-shadow-2xl hover:opacity-100 transform transition duration-700">
             <p>Become addicted to the exercise that is given</p>
           </div>
         </div>

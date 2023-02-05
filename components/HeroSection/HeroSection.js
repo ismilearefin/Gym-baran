@@ -30,8 +30,8 @@ const HeroSection = () => {
               <br /> run a healthy routine.
             </p>
             <div className="flex mb-[50px]">
-              <div className="flex items-center justify-between w-[176px] lg:w-[246px] bg-[#264373] px-4 lg:px-6 py-3 rounded-[10px] mr-[22px] lg:mr-9 ">
-                <button className="lg:text-base text-[12px] text-white">
+              <div className="flex items-center justify-between w-[176px] lg:w-[246px] bg-[#264373] text-white px-4 lg:px-6 py-3 rounded-[10px] mr-[22px] lg:mr-9 hover:shadow-[inset_13rem_0_0_0] hover:shadow-[#8382EB] duration-[400ms,700ms] transition-[color,box-shadow]">
+                <button className="lg:text-base text-[12px]  ">
                   Get started
                 </button>
                 <Image
@@ -40,7 +40,7 @@ const HeroSection = () => {
                   height={32}
                 ></Image>
               </div>
-              <div className="flex items-center justify-center gap-2 w-[125px] lg:w-[174px] rounded-[10px] px-3 lg:px-[18px] py-3 bg-white drop-shadow-2xl">
+              <div className="flex items-center justify-center gap-2 w-[125px] lg:w-[174px] rounded-[10px] px-3 lg:px-[18px] py-3 bg-white drop-shadow-2xl  hover:shadow-lg  duration-[400ms,700ms] ">
                 <Image src="/PlayCircle.png" width={26} height={26}></Image>
                 <button className="lg:text-base text-[12px]">Learn more</button>
               </div>

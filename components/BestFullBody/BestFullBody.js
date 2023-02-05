@@ -28,7 +28,7 @@ const BestFullBody = () => {
           routine. Even at home we still have to be diligent in exercising,
           either alone or with your friends at home.
         </p>
-        <button className="flex items-center w-[176px] lg:w-[246px] rounded-[10px] bg-[#264373] px-6 py-[14px] text-[12px] lg:text-base text-white">
+        <button className="flex items-center w-[176px] lg:w-[246px] rounded-[10px] bg-[#264373] px-6 py-[14px] text-[12px] lg:text-base text-white hover:shadow-[inset_13rem_0_0_0] hover:shadow-[#8382EB] duration-[400ms,700ms] transition-[color,box-shadow]">
           Get started{" "}
           <FaArrowRight className="ml-auto text-[12px] lg:text-2xl"></FaArrowRight>
         </button>

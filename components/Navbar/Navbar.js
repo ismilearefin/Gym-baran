@@ -37,19 +37,19 @@ const Navbar = () => {
           
         </div>
         <div className="navbar-end hidden lg:flex">
-          <ul className="menu menu-horizontal gap-10 text-base">
+          <ul className="menu] menu-horizontal gap-10 text-base">
             <li>
                 <a>Home</a>
             </li>
-            <li>
+            <li >
               <a>
                 Programs
               </a>
             </li>
-            <li>
+            <li >
                 <a>Blog</a>
             </li>
-            <li>
+            <li >
                 <a>About us</a>
             </li>
             <li>                
